@@ -1,2 +1,2 @@
-# tinhocc.github.io
+# tinhoc.github.io
 toiyeutinhocvatinhocdenvoitoi
